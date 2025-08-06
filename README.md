@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there👋, Im Girish
 
-<!--
-**girishskandha-s/girishskandha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer & R&D engineer at Beunec Technologies  
+🎓 CS undergrad @ UIUC | Passionate about building scalable dev tools, languages, and products  
+🍱 Currently working on Bayjo — a student-led app connecting people with affordable, home-cooked meals  
+🧠 Builder of ALUX, a modern component-based programming language, and the Aselius DevSuite compiler toolchain
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+React · React Native · TypeScript · Firebase · Django · Python · C++ · Expo · Tailwind · Node.js
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/girish-skandha-s-619a6a260/)
